@@ -1,7 +1,7 @@
 A simple Java web crawler that takes a web page and returns a number of the most important words on that page.
 This ranking is calculated using the TFIDF scores of each word on the page, with the crawled pages used as the corpus.
 
-Built using Java JDK 11 and Maven 3.6.3
+Built using Java JDK 11, Apache NetBeans 12.6 and Maven 3.6.3
 Uses the Jsoup version 1.14.3 library.
 
 Usage:
